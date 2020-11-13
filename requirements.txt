@@ -1,0 +1,19 @@
+# local package editable mode
+-e .
+
+# external requirements
+black
+lint
+isort
+
+setuptools
+wheel
+pyspark==3.0.0
+pyarrow==0.17.1
+mlflow==1.9.1
+pytest==5.3.1
+python-dotenv==0.10.3
+databricks-cli==0.10.0
+pyyaml>=5.1
+scikit-learn==0.23.1
+optuna==1.4.0

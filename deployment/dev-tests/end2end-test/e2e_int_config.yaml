@@ -1,0 +1,4 @@
+experiment-path: /Shared/cicd
+data-path: /databricks-datasets/samples/lending_club/parquet
+test-output-path: /tmp/msh/leout-test
+model-name: ModelIntTest

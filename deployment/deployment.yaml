@@ -1,0 +1,3 @@
+model-name: lab_project_demo
+experiment-path: /Shared/cicd
+cloud: AWS

@@ -1,0 +1,3 @@
+experiment-path: /Shared/cicd
+data-path: /databricks-datasets/samples/lending_club/parquet
+model-name: ScoringModel
