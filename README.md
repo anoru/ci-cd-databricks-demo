@@ -1,8 +1,6 @@
 lab-project-demo
 ==============================
 
-This project serves as a demo using lab-data-science-template
-
 Project Organization
 ------------
 
